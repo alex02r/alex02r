@@ -1,5 +1,3 @@
-# Hi there 👋
-
 ## 📂 Cosa trovi sul mio GitHub
 Qui troverai tutte le repo a cui ho lavorato durante il mio percorso come sviluppatore web, 
 dove si può notare la crescita personale che ho avuto dai primi progetti ai più recenti.

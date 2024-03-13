@@ -1,9 +1,6 @@
-# Ciao... 👻
-Sono Alex Rummolo, benvenuto nel mio profilo, qui sotto trovi una piccola guida su come è strutturato.
-## 📂 Cosa trovi sul mio GitHub
-Qui troverai tutte le repo a cui ho lavorato durante il mio percorso come sviluppatore web, 
-dove si può notare la crescita personale che ho avuto dai primi progetti ai più recenti.
-
+#### "Hello world..." 👻
+## 📂 Benvenuto sul mio GitHub
+Mi chiamo Alex, sono un *jr Full Stack Web Developer*. Qui sul mio profilo sono presenti tutte le repo a cui ho lavorato durante il mio percorso di formazione.
 ## 📌Pinned
 Nella sezione **pinned** sono presenti i progetti che secondo me hanno un valore maggiore nella mia crescita come *web develpoer* :
 - **vite-boolflix** : Un sito che permette la ricerca di qualsiasi film, tramite una chiamata API. In home page possiamo visualizzare i film e le serie TV più popolari del momento.

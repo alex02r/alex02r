@@ -1,4 +1,4 @@
-#### "Hello world..." 👻
+### <span style="color:green;">"Hello world..."</span> 👻
 ## 📂 Benvenuto sul mio GitHub
 Mi chiamo Alex, sono un *jr Full Stack Web Developer*. Qui sul mio profilo sono presenti tutte le repo a cui ho lavorato durante il mio percorso di formazione.
 ## 📌Pinned

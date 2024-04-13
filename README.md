@@ -1,6 +1,7 @@
 ### "Hello world..." 👻
 ## 📂 Benvenuto sul mio GitHub
 Mi chiamo Alex, sono un *jr Full Stack Web Developer*. Qui sul mio profilo sono presenti tutte le repo a cui ho lavorato durante il mio percorso di formazione.
+
 ## 📌Pinned
 Nella sezione **pinned** sono presenti i progetti che secondo me hanno un valore maggiore nella mia crescita come *web develpoer* :
 - **vite-boolflix** : Un sito che permette la ricerca di qualsiasi film, tramite una chiamata API. In home page possiamo visualizzare i film e le serie TV più popolari del momento.
@@ -11,11 +12,6 @@ Nella sezione **pinned** sono presenti i progetti che secondo me hanno un valore
 - **php-todo-json** : Una lista gestita in php che memorizza I task in un file json, con la possibilità di barrare il testo dei task svolti, eliminare i task e aggiungerne nuovi.
 ## 💼 BoolBnb
 Realizzato come progetto di gruppo finale per il corso come *jr full stack web developer*, **BoolBnB** è una *web application divisa* in due parti principali: una **back-end** sviluppata in *Laravel* per la gestione degli appartamenti da parte degli utenti registrati e una **front-end** sviluppata in *Vue* e *Vite* per la visualizzazione e la ricerca degli appartamenti.
-### Collaboratori
-- [<img src="https://avatars.githubusercontent.com/u/146065546?v=4" width="30px;" alt="Immagine Profilo Dorìn"/>](https://github.com/DorinVieru) **Dorìn**
-- [<img src="https://avatars.githubusercontent.com/u/146549805?v=4" width="30px;" alt="Immagine Profilo Igor"/>](https://github.com/igorgaidolfi) **Igor**
-- [<img src="https://avatars.githubusercontent.com/u/146652757?v=4" width="30px;" alt="Immagine Profilo Fabio"/>](https://github.com/Fabio9494) **Fabio**
-- [<img src="https://avatars.githubusercontent.com/u/83594117?v=4" width="30px;" alt="Immagine Profilo Asaf"/>](https://github.com/asafcastigliano) **Asaf**
   
 <details>
   <summary><a href="https://github.com/alex02r/laravel-boolbnb">laravel-boolbnb (Back-end)</a></summary>
@@ -40,3 +36,9 @@ Realizzato come progetto di gruppo finale per il corso come *jr full stack web d
 ### Conclusioni:
 
 Il progetto Gestione Affitti Appartamenti Online offre agli utenti un'esperienza completa e intuitiva per la gestione e la ricerca di appartamenti in affitto. Grazie alle funzionalità fornite sia dalla parte Laravel che da quella Vue, gli utenti possono trovare, pubblicare e gestire le loro offerte immobiliari in modo efficiente e conveniente.
+
+### Collaboratori
+
+| [<img src="https://avatars.githubusercontent.com/u/146065546?v=4" width="30px;" alt="Immagine Profilo Dorìn"/>](https://github.com/DorinVieru) | [<img src="https://avatars.githubusercontent.com/u/146549805?v=4" width="30px;" alt="Immagine Profilo Igor"/>](https://github.com/igorgaidolfi) | [<img src="https://avatars.githubusercontent.com/u/146652757?v=4" width="30px;" alt="Immagine Profilo Fabio"/>](https://github.com/Fabio9494) | [<img src="https://avatars.githubusercontent.com/u/83594117?v=4" width="30px;" alt="Immagine Profilo Asaf"/>](https://github.com/asafcastigliano) |
+|---|---|---|---|
+| **Dorìn** | **Igor** | **Fabio** | **Asaf** |

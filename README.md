@@ -5,14 +5,6 @@ Mi chiamo Alex, sono un *jr Full Stack Web Developer*. Qui sul mio profilo sono 
 [![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:alex.rummolo02@gmail.com)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/alex-rummolo-7a7aba2b9/))
 
-## 📌Pinned
-Nella sezione **pinned** sono presenti i progetti che secondo me hanno un valore maggiore nella mia crescita come *web develpoer* :
-- **vite-boolflix** : Un sito che permette la ricerca di qualsiasi film, tramite una chiamata API. In home page possiamo visualizzare i film e le serie TV più popolari del momento.
-- **vue-boolzapp** : Riproduzione di una fake chat con lo stile di whatsapp, che permette: linvio di messaggi, la ricezione di un messaggio random, eliminare un messaggio, aggiungere un nuovo utente. Resa anche responsive, quindi utilizzabile anche da smartphone.
-- **php-badwords** : Uno dei primi siti web creati in *php*, che permette di censurare una o più parole all'interno di un paragrafo. Noi possiamo inserire il paragrafo in una text-area e le parole da censurare in un campo sottostante. Premendo invio restituirà il paragrafo censurato, comparandolo con quello inserito in precedenza e mostrando anche la lunchezza in caratteri dei due. 
-- **laravel-api** : Un gestionale in **Laravel** di progetti di un portfolio, dove è possibile inserire, modificare o eliminare un progetto in un database. Trasmettendo i dati tramite *API* a un sito fornt-end.
-  - **vite-boolfolio**: Questa è la parte front-end, dove possiamo visualizzare tutti i progetti inseriti nel database da back-end.
-- **php-todo-json** : Una lista gestita in php che memorizza I task in un file json, con la possibilità di barrare il testo dei task svolti, eliminare i task e aggiungerne nuovi.
 ## 💼 BoolBnb
 Realizzato come progetto di gruppo finale per il corso come *jr full stack web developer*, **BoolBnB** è una *web application divisa* in due parti principali: una **back-end** sviluppata in *Laravel* per la gestione degli appartamenti da parte degli utenti registrati e una **front-end** sviluppata in *Vue* e *Vite* per la visualizzazione e la ricerca degli appartamenti.
   
@@ -36,12 +28,21 @@ Realizzato come progetto di gruppo finale per il corso come *jr full stack web d
     - **Messaggistica Diretta:** Gli utenti possono inviare messaggi diretti ai proprietari degli appartamenti direttamente dalla pagina di visualizzazione dell'appartamento, semplificando il processo di contatto e di richiesta di informazioni aggiuntive.
 </details>
 
-### Conclusioni:
-
-Il progetto Gestione Affitti Appartamenti Online offre agli utenti un'esperienza completa e intuitiva per la gestione e la ricerca di appartamenti in affitto. Grazie alle funzionalità fornite sia dalla parte Laravel che da quella Vue, gli utenti possono trovare, pubblicare e gestire le loro offerte immobiliari in modo efficiente e conveniente.
-
 ### Collaboratori
 
 | [<img src="https://avatars.githubusercontent.com/u/146065546?v=4" width="30px;" alt="Immagine Profilo Dorìn"/>](https://github.com/DorinVieru) | [<img src="https://avatars.githubusercontent.com/u/146549805?v=4" width="30px;" alt="Immagine Profilo Igor"/>](https://github.com/igorgaidolfi) | [<img src="https://avatars.githubusercontent.com/u/146652757?v=4" width="30px;" alt="Immagine Profilo Fabio"/>](https://github.com/Fabio9494) | [<img src="https://avatars.githubusercontent.com/u/83594117?v=4" width="30px;" alt="Immagine Profilo Asaf"/>](https://github.com/asafcastigliano) |
 |---|---|---|---|
 | **Dorìn** | **Igor** | **Fabio** | **Asaf** |
+
+### Conclusioni:
+
+Il progetto Gestione Affitti Appartamenti Online offre agli utenti un'esperienza completa e intuitiva per la gestione e la ricerca di appartamenti in affitto. Grazie alle funzionalità fornite sia dalla parte Laravel che da quella Vue, gli utenti possono trovare, pubblicare e gestire le loro offerte immobiliari in modo efficiente e conveniente.
+
+## 📌Pinned
+Nella sezione **pinned** sono presenti i progetti che secondo me hanno un valore maggiore nella mia crescita come *web develpoer* :
+- **vite-boolflix** : Un sito che permette la ricerca di qualsiasi film, tramite una chiamata API. In home page possiamo visualizzare i film e le serie TV più popolari del momento.
+- **vue-boolzapp** : Riproduzione di una fake chat con lo stile di whatsapp, che permette: linvio di messaggi, la ricezione di un messaggio random, eliminare un messaggio, aggiungere un nuovo utente. Resa anche responsive, quindi utilizzabile anche da smartphone.
+- **php-badwords** : Uno dei primi siti web creati in *php*, che permette di censurare una o più parole all'interno di un paragrafo. Noi possiamo inserire il paragrafo in una text-area e le parole da censurare in un campo sottostante. Premendo invio restituirà il paragrafo censurato, comparandolo con quello inserito in precedenza e mostrando anche la lunchezza in caratteri dei due. 
+- **laravel-api** : Un gestionale in **Laravel** di progetti di un portfolio, dove è possibile inserire, modificare o eliminare un progetto in un database. Trasmettendo i dati tramite *API* a un sito fornt-end.
+  - **vite-boolfolio**: Questa è la parte front-end, dove possiamo visualizzare tutti i progetti inseriti nel database da back-end.
+- **php-todo-json** : Una lista gestita in php che memorizza I task in un file json, con la possibilità di barrare il testo dei task svolti, eliminare i task e aggiungerne nuovi.

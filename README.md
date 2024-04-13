@@ -1,6 +1,9 @@
 ### "Hello world..." 👻
 ## 📂 Benvenuto sul mio GitHub
 Mi chiamo Alex, sono un *jr Full Stack Web Developer*. Qui sul mio profilo sono presenti tutte le repo a cui ho lavorato durante il mio percorso di formazione.
+#### Collegati con me 
+[![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:alex.rummolo02@gmail.com)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/alex-rummolo-7a7aba2b9/))
 
 ## 📌Pinned
 Nella sezione **pinned** sono presenti i progetti che secondo me hanno un valore maggiore nella mia crescita come *web develpoer* :
